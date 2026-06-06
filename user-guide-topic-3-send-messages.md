@@ -10,8 +10,8 @@ Make sure you have an active internet connection.
 
 1. Open the **MyChild Helpline** app.
 2. Select **Chat Helpline** on the home screen.
-3. Read the notice that appears.
-4. Select **I Understand** to confirm and go to your chat screen.
+3. Read the notice that shows.
+4. Select **I Understand** and go to your chat screen.
 5. Tap the **Message** field at the bottom of your screen.
 6. Type your message.
 7. Select **Send**.
