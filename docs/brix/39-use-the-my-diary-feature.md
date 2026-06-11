@@ -34,7 +34,30 @@ You can write in your diary at any time, even without an internet connection.
 Important: Once you delete an entry, the data is permanently gone and you cannot restore it.
 
 ---
+## Locking your diary
 
+You can secure your diary using the app’s built-in lock feature.
+
+### Enabling diary lock
+To enable the diary lock:
+
+1. Go to the Landing Page.
+2. Tap the **Menu** icon (three horizontal lines) located at the upper-left corner of the screen.
+3. Select **Enable diary lock**.
+
+Once enabled, **My Diary** will automatically be locked.
+
+### Unlocking your diary
+To access your locked diary:
+
+* The app will use your device security method, such as:
+  - Phone passcode
+  - Touch ID
+  - Face ID
+
+No separate password is required.
+
+---
 ## Tips for using your diary
 
 * Use different background colors to visually group your entries by theme, importance, or how you feel that day.
