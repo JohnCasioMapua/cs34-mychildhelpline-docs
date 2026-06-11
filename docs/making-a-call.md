@@ -9,7 +9,7 @@ The **Call Us** feature shows the national toll-free helpline number for your co
 1. Open the **MyChild Helpline** app.
 2. Select **Call Us** on the home screen.
 
-The app displays the toll-free helpline number for your country.
+The app shows the helpline number for your country.
 
 3. Select the helpline number.
 
