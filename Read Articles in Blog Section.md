@@ -1,0 +1,55 @@
+# Read Articles in Blog Section
+
+## Purpose
+
+The Blog Section allows users to browse and read articles related to child welfare, mental health, parenting, and information about supported countries. This feature provides educational content and helpful resources for users of the MyChild Helpline application.
+
+## Prerequisites
+
+- MyChild Helpline is installed on the user's device.
+- The device is connected to the internet.
+
+## Procedure
+
+### Step 1: Open the Application
+
+Open the MyChild Helpline application from your device.
+
+### Step 2: Access the Blog Section
+
+From the application's navigation menu, select **Blog**.
+
+### Step 3: Browse available articles
+
+View the list of available articles and select an article of interest.
+
+### Step 4: Open an article
+
+Tap the article title or article card to display the full article.
+
+### Step 5: Read the article
+
+Scroll through the article to read its content.
+
+### Step 6: Return to the Blog Section
+
+Use the back button to return to the list of articles and continue browsing.
+
+## Expected result
+
+The selected article is displayed successfully, allowing the user to read information and resources related to the application and supported countries.
+
+## Troubleshooting
+
+| Issue | Solution |
+|-------|----------|
+| Articles do not load | Check the device's internet connection and try again. |
+| Unable to access the Blog section | Restart the application and reopen the Blog section. |
+| Article content does not appear completely | Refresh the page or reopen the article. |
+| Application becomes unresponsive | Close and relaunch the application. |
+
+## Additional notes
+
+- An internet connection is required to access and load articles.
+- Available articles may vary depending on the supported country.
+- New articles may be added periodically to provide updated information and resources.
