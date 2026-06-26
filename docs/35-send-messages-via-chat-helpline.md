@@ -4,6 +4,8 @@
 
 The **Chat Helpline** feature allows you to send messages to a live support agent. Use this feature when you need immediate assistance or want to ask a question.
 
+![Helping Hand](../assets/helping-hand.gif)
+
 ## Before You Begin
 
 Make sure your device has an active internet connection.
