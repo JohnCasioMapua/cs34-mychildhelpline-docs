@@ -4,6 +4,8 @@
 
 The **Policies** section provides access to important information about the **MyChild Helpline** app, including its privacy practices, data sharing, and data collection policies.
 
+![Demo GIF](../assets/policies.gif)
+
 ## Opening the Policies Section
 
 1. Open the **MyChild Helpline** app.
