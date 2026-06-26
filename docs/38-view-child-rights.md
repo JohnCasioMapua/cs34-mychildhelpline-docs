@@ -1,37 +1,29 @@
-# View child rights in Child Zone
+# View My Rights in the Information Kiosk Module
 
-**Child Zone** presents the UN Convention on the Rights of the Child in an easier language.
+## Overview
 
-## Opening Child Zone
+The **My Rights** section in the **Information Kiosk** presents the **United Nations Convention on the Rights of the Child (UNCRC)** in simple and easy-to-understand language. Each right includes a brief description, and you can listen to it using the built-in audio feature.
+
+## Opening My Rights
 
 1. Open the **MyChild Helpline** app.
-2. Select **Child Zone** on the home screen.
+2. Select **Information Kiosk** on the home screen.
+3. Select **My Rights**.
 
-The Child Zone screen shows you a numbered list of children's rights.
-
-## Reading a Child Right
-
-1. Scroll through the list of rights on the **Child Zone** screen.
-2. Select a right to open its full entry.
-
-The entry shows you the right with a short explanation.
+The **My Rights** screen displays a child right along with a brief description.
 
 ## Listening to a Child Right
 
-Aside from reading, you can also listen to a child right.
+1. Open the **My Rights** section.
+2. Select the **Play** button.
 
-1. Open a right from the **Child Zone** list.
-2. Select the **Play** button on the entry screen.
+The app reads the displayed child right aloud through your device's speaker. Select **Pause** to stop the audio.
 
-The app reads the right aloud through your device's speaker. Select **Pause** to stop the sound.
+> **Note:** Check your device volume before selecting **Play**.
 
-> **Note:** Checck your device volume before pressing **Play**.
+## Viewing the Next or Previous Right
 
-## Changing the Language
+1. Swipe left to view the next child right.
+2. Swipe right to return to the previous child right.
 
-Child Zone is available in other languages. To switch:
-
-1. Select the **language icon** at the top right of the **Child Zone** screen.
-2. Choose your language from the list.
-
-The rights list then updates to your selected language.
+The app updates the screen to display the selected child right and its brief description.
