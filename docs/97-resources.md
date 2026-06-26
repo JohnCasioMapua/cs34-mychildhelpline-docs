@@ -4,6 +4,8 @@
 
 The *Resources* section provides access to organizations and services that offer support in areas such as health, child protection, education, social welfare, libraries, and police services.
 
+![Resources](../assets/resources.gif)
+
 ## Opening Resources
 
 1. Open the *MyChild Helpline* app.
@@ -43,17 +45,23 @@ The available options may vary.
 
 The app opens your device's phone application and dials the organization's contact number.
 
+![Call](../assets/call.gif)
+
 ## Viewing an Organization's Location
 
 1. Select *Location*.
 
 The app opens your device's map application and displays the organization's location.
 
+![Location](../assets/location.gif)
+
 ## Visiting an Organization's Website
 
 1. Select *Website*.
 
 The app opens the organization's official website in your device's web browser.
+
+![Website](../assets/website.gif)
 
 ## Returning to the Previous Screen
 
