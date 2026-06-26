@@ -13,4 +13,4 @@ After installing the **MyChild Helpline** app, open it on your device to registe
 
 The home screen appears after you successfully register or sign in, allowing you to access the app's features.
 
-<img src="../assets/installingtheapp-ezgif.com-video-to-gif-converter.gif" alt="Installing the App" width="500">
+
