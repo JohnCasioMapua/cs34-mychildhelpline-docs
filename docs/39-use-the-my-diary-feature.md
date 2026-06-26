@@ -4,6 +4,8 @@
 
 The **My Diary** feature provides a private and secure space within the **MyChild Helpline** app where you can record your thoughts, reflect on your feelings, and keep personal notes.
 
+![Demo GIF](../assets/ezgif.com-video-to-gif-converter.gif)
+
 ## Privacy and Safety
 
 Your diary entries are protected to help keep your information private.
