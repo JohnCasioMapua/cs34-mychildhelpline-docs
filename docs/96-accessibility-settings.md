@@ -4,6 +4,8 @@
 
 The **Accessibility** settings allow you to customize the appearance of text in the **MyChild Helpline** app to improve readability. You can adjust **Dyslexia Friendly**, **Bigger Text**, **Line Height**, and **Text Spacing**.
 
+![Accessibility](../assets/accessibility.gif)
+
 ## Opening Accessibility Settings
 
 1. Open the **MyChild Helpline** app.
