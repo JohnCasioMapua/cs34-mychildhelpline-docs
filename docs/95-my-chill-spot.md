@@ -4,7 +4,7 @@
 
 The **My Chill Spot** feature provides guided relaxation activities to help you feel calm, manage your emotions, and reduce stress. You can choose from simple exercises designed to promote relaxation and focus.
 
-
+![My Chill Spot](../assets/my-chill-spot.gif)
 
 ## Opening My Chill Spot
 
