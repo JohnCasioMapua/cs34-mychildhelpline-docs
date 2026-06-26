@@ -16,15 +16,6 @@ The app opens the **My Rights** feature.
 
 When you open **My Rights**, **Helping Hand** introduces the concept of children's rights.
 
-The introduction explains that:
-
-* Every child has rights.
-* Rights are things children should have or be able to do to have the best start in life.
-* These rights are based on the **United Nations Convention on the Rights of the Child**.
-* They apply to all children under 18 worldwide.
-* All rights are equally important and connected.
-* Children are born with these rights, and no one can take them away.
-
 ### Listening to the Introduction
 
 Select **Play** to hear the introduction.
