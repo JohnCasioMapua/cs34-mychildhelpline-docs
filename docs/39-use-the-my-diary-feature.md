@@ -1,71 +1,71 @@
-# My Diary User Guide
+# Use My Diary
 
-The **My Diary** feature provides a private, secure space inside the **MyChild Helpline** application. Use this feature to express your thoughts, process feelings, and keep a personal log.
+## Overview
 
----
+The **My Diary** feature provides a private and secure space within the **MyChild Helpline** app where you can record your thoughts, reflect on your feelings, and keep personal notes.
 
 ## Privacy and Safety
 
-Before you write your first entry, understand how the application protects your privacy:
+Your diary entries are protected to help keep your information private.
 
-* Your entries remain private and are stored directly on your own mobile device.
-* The application encrypts your data, which means no one else can read your writing.
-* UNICEF staff, administrators, and counsellors cannot see your entries.
-* The application does not link your entries to your real name, email address, or phone number.
+* Entries are stored directly on your device.
+* The app encrypts your diary data to protect your writing.
+* UNICEF staff, administrators, and counsellors cannot access your entries.
+* Your diary is not linked to your real name, email address, or phone number.
 
----
+## Creating a New Entry
 
-## Creating and Managing Entries
+You can create a diary entry at any time, even without an internet connection.
 
-You can write in your diary at any time, even without an internet connection.
+1. Open **My Diary**.
+2. Select the **+** button in the bottom-right corner of the screen.
+3. Enter a title for your entry.
+4. Type your thoughts in the text area.
+5. Select a background color, if desired.
+6. Select the **Save** icon in the upper-right corner of the screen.
 
-### Writing a New Entry
+The app saves your diary entry to your device.
 
-1. Tap **My Diary**.
-2. Tap the **+** button at the bottom-right corner of the screen to open a fresh page.
-3. Tap the title bar to name your entry.
-4. Start typing your thoughts in the main text area.
-5. Select a color from the formatting bar to apply your preferred background color to the entry.
-6. Tap the save icon in the top-right corner to publish and lock your entry.
+## Viewing, Editing, Deleting, or Sharing an Entry
 
-### Viewing, Editing, Deleting, or Sharing an Entry
+To view or edit an entry:
 
-* To read or edit an entry, tap your chosen entry from the timeline list. Make your changes and tap **Save**.
-* To delete or share an entry, tap the **three-dot** icon on the entry, then select **Delete** or **Share**.
+1. Open **My Diary**.
+2. Select an entry from the timeline.
+3. Make your changes.
+4. Select **Save**.
 
-> **Important:** Once you delete an entry, the data is permanently removed and cannot be restored.
+To delete or share an entry:
 
----
+1. Open the desired diary entry.
+2. Select the **Three-dot** menu.
+3. Choose **Delete** or **Share**.
+
+> **Important:** Deleted diary entries cannot be recovered.
 
 ## Locking Your Diary
 
-You can secure your diary using the app’s built-in lock feature.
+You can protect **My Diary** using your device's built-in security features.
 
 ### Enabling Diary Lock
 
-To enable the diary lock:
-
-1. Go to the Landing Page.
-2. Tap the **Menu** icon (three horizontal lines) located at the upper-left corner of the screen.
+1. Go to the home screen.
+2. Select the **Menu** icon in the upper-left corner.
 3. Select **Enable Diary Lock**.
 
-Once enabled, **My Diary** will automatically be locked.
+Once enabled, the diary is automatically protected.
 
 ### Unlocking Your Diary
 
-To access your locked diary:
+When you open **My Diary**, the app uses your device's security method, such as:
 
-* The app will use your device security method, such as:
+* Phone passcode
+* Touch ID
+* Face ID
 
-  * Phone passcode
-  * Touch ID
-  * Face ID
+No separate diary password is required.
 
-No separate password is required.
+## Tips for Using My Diary
 
----
-
-## Tips for Using Your Diary
-
-* Use different background colors to visually group your entries by theme, importance, or how you feel that day.
-* Organize your thoughts in **My Diary** before you use **Live Chat** to help you prepare for talking with a counsellor.
+* Use different background colors to organize entries by topic or mood.
+* Record your thoughts before using **Live Chat** to help prepare for conversations with a counsellor.
