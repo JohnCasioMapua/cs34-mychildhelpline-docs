@@ -1,55 +1,46 @@
-# Read Articles in Blog Section
+# Read Articles in the Blog Section
 
-## Purpose
+## Overview
 
-The Blog Section allows users to browse and read articles related to child welfare, mental health, parenting, and information about supported countries. This feature provides educational content and helpful resources for users of the MyChild Helpline application.
+The **Blog** section provides articles about child welfare, mental health, parenting, and information related to supported countries. You can browse and read these resources to learn more about topics relevant to the **MyChild Helpline** app.
 
-## Prerequisites
+## Before You Begin
 
-- MyChild Helpline is installed on the user's device.
-- The device is connected to the internet.
+Make sure that:
 
-## Procedure
+* The **MyChild Helpline** app is installed on your device.
+* Your device is connected to the internet.
 
-### Step 1: Open the Application
+## Opening the Blog Section
 
-Open the MyChild Helpline application from your device.
+1. Open the **MyChild Helpline** app.
+2. Select **Blog** from the navigation menu.
 
-### Step 2: Access the Blog Section
+The app displays a list of available articles.
 
-From the application's navigation menu, select **Blog**.
+## Browsing Articles
 
-### Step 3: Browse available articles
+Scroll through the list of articles and select one that interests you.
 
-View the list of available articles and select an article of interest.
+The selected article opens on the screen.
 
-### Step 4: Open an article
+## Reading an Article
 
-Tap the article title or article card to display the full article.
+Read the article by scrolling through its content.
 
-### Step 5: Read the article
-
-Scroll through the article to read its content.
-
-### Step 6: Return to the Blog Section
-
-Use the back button to return to the list of articles and continue browsing.
-
-## Expected result
-
-The selected article is displayed successfully, allowing the user to read information and resources related to the application and supported countries.
+When you finish reading, use the **Back** button to return to the list of articles and continue browsing.
 
 ## Troubleshooting
 
-| Issue | Solution |
-|-------|----------|
-| Articles do not load | Check the device's internet connection and try again. |
-| Unable to access the Blog section | Restart the application and reopen the Blog section. |
-| Article content does not appear completely | Refresh the page or reopen the article. |
-| Application becomes unresponsive | Close and relaunch the application. |
+| **Issue**                                  | **Recommended Solution**                                 |
+| ------------------------------------------ | -------------------------------------------------------- |
+| Articles do not load                       | Check your internet connection and try again.            |
+| Unable to access the **Blog** section      | Restart the application and reopen the **Blog** section. |
+| Article content does not appear completely | Refresh the page or reopen the article.                  |
+| Application becomes unresponsive           | Close and relaunch the application.                      |
 
-## Additional notes
+## Additional Notes
 
-- An internet connection is required to access and load articles.
-- Available articles may vary depending on the supported country.
-- New articles may be added periodically to provide updated information and resources.
+* An internet connection is required to access and load articles.
+* Available articles may vary depending on the supported country.
+* New articles may be added periodically to provide updated information and resources.
