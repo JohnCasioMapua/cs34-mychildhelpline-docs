@@ -1,60 +1,40 @@
-# Policies User Guide
+# View Policies
 
-## Accessing policies
+## Overview
 
-### Opening the feature
+The **Policies** section provides access to important information about the **MyChild Helpline** app, including its privacy practices, data sharing, and data collection policies.
 
-To access Policies:
+## Opening the Policies Section
 
-1. Open the **MyChild Helpline App**.
-2. Go to the Landing Page.
-3. Tap the **Menu** icon (three horizontal lines) located at the upper-left corner of the screen.
+1. Open the **MyChild Helpline** app.
+2. Go to the home screen.
+3. Select the **Menu** icon (three horizontal lines) in the upper-left corner of the screen.
 4. Select **Policies**.
 
-The app opens the Policies section.
+The app opens the **Policies** section.
 
----
+## Viewing Available Policies
 
-## Viewing policy topics
+The **Policies** section includes the following topics:
 
-### Available policies
+* **Privacy Policy**
+* **Data Sharing Policy**
+* **Data Collection Policy**
 
-The Policies section displays three main topics:
+Select a policy to view its contents.
 
-- Privacy Policy
-- Data Sharing Policy
-- Data Collection Policy
+## Reading a Policy
 
-Each topic opens a separate article on a website.
+1. Select the policy you want to read.
+2. The app opens the corresponding policy page.
+3. Scroll through the page to read the full content.
 
----
+Each policy provides information about how the app manages user information and related services.
 
-## Reading policy articles
+## Returning to the Previous Page
 
-### Opening a policy
+To return to the previous screen:
 
-To view a policy:
+1. Select the **Back** (`<`) icon in the upper-left corner of the screen.
 
-1. Tap the policy topic you want to read.
-2. The app redirects you to a website article.
-3. Scroll to read the full content of the policy.
-
-Each policy provides detailed information about how the application handles user data and services.
-
----
-
-## Navigation controls
-
-### Returning to the previous page
-
-To go back:
-
-- Tap the **“<” icon** located at the upper-left corner of the screen.
-
-This returns you to the Policies list or previous page inside the website.
-
----
-
-## Summary
-
-The Policies feature provides users with access to important information about privacy, data sharing, and data collection. Users can view each policy through linked articles and navigate easily using the back icon.
+The app returns you to the **Policies** list or the previous page.
