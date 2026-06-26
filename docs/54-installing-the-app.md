@@ -4,8 +4,6 @@
 
 Before using the **MyChild Helpline** app, download and install it on your mobile device from your device's official app store.
 
-![Installing the app](../assets/installingtheapp-ezgif.com-video-to-gif-converter.gif)
-
 ## Installing on iOS
 
 1. Open the **App Store** on your iPhone or iPad.
@@ -15,6 +13,10 @@ Before using the **MyChild Helpline** app, download and install it on your mobil
 5. Wait for the download and installation to finish.
 
 The app icon appears on your home screen when the installation is complete.
+
+Watch the GIF below to see how the installation looks step by step.
+
+![Installing the app](../assets/installingtheapp-ezgif.com-video-to-gif-converter.gif)
 
 ## Installing on Android
 
