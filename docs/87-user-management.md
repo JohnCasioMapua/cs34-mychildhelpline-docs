@@ -1,36 +1,54 @@
-# User Management
+# Manage User Accounts
 
-## Purpose
+## Overview
 
-The User Management feature enables administrators to oversee user accounts within the MyChild Helpline system. Administrators can view user information, manage account access, and ensure that only authorized individuals can use the application.
+The **User Management** feature allows administrators to view and manage user accounts within the **MyChild Helpline** system. This helps ensure that only authorized individuals can access the application and that user information remains up to date.
 
-## Prerequisites
+## Before You Begin
 
-* The administrator has a valid administrator account.
-* The administrator is logged in to the system.
-* The administrator has the necessary permissions to manage user accounts.
+Make sure that:
 
-## Procedure
+* You have a valid administrator account.
+* You are signed in to the administrative dashboard.
+* You have permission to manage user accounts.
 
-### Step 1: Access the User Management Module
+## Opening User Management
 
-Log in to the administrative dashboard and navigate to the **User Management** section.
+1. Sign in to the administrative dashboard.
+2. Navigate to **User Management**.
 
-### Step 2: View User Accounts
+The system displays a list of registered user accounts.
 
-Review the list of registered users displayed in the system. User information may include names, account details, registration dates, and account status.
+## Viewing User Accounts
 
-### Step 3: Search for a User
+Review the list of registered users displayed on the page.
 
-Use the search or filtering tools to locate a specific user account.
+The system may show information such as:
 
-### Step 4: View User Details
+* User names
+* Account details
+* Registration dates
+* Account status
 
-Select a user account to view detailed information and account activity.
+## Searching for a User
 
-### Step 5: Manage User Accounts
+1. Use the search or filter tools.
+2. Enter the user's information or search criteria.
 
-Perform the necessary administrative action, such as:
+The system displays matching user accounts.
+
+## Viewing User Details
+
+1. Select a user account from the list.
+
+The system opens the user's profile and displays detailed account information and activity.
+
+## Managing User Accounts
+
+1. Open the user account you want to manage.
+2. Perform the required action.
+
+Available actions may include:
 
 * Updating user information
 * Activating user accounts
@@ -38,25 +56,21 @@ Perform the necessary administrative action, such as:
 * Resetting account credentials
 * Managing account permissions
 
-### Step 6: Save Changes
+3. Save your changes.
 
-Confirm and save any modifications made to the user account.
-
-## Expected Result
-
-The selected user account is successfully managed, and any authorized changes are reflected within the system.
+The system updates the selected user account with the authorized modifications.
 
 ## Troubleshooting
 
-| Issue                                   | Solution                                                             |
-| --------------------------------------- | -------------------------------------------------------------------- |
-| User account cannot be found            | Verify the search criteria and try again.                            |
-| Changes are not saved                   | Ensure all required fields are completed and save the changes again. |
-| Access to User Management is restricted | Verify that the administrator account has the necessary permissions. |
-| User information appears incorrect      | Refresh the page and verify the latest data.                         |
+| **Issue**                                   | **Recommended Solution**                                              |
+| ------------------------------------------- | --------------------------------------------------------------------- |
+| User account cannot be found                | Verify the search criteria and try again.                             |
+| Changes are not saved                       | Ensure all required fields are completed before saving.               |
+| Access to **User Management** is restricted | Verify that your administrator account has the necessary permissions. |
+| User information appears incorrect          | Refresh the page and verify the latest data.                          |
 
 ## Additional Notes
 
-* Only authorized administrators should have access to the User Management module.
-* Administrators should regularly review user accounts to maintain system security.
-* Any changes made to user accounts should follow the organization's privacy and security policies.
+* Only authorized administrators should have access to **User Management**.
+* Regularly review user accounts to maintain system security.
+* Follow your organization's privacy and security policies when making changes to user accounts.
