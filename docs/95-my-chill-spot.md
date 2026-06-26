@@ -4,6 +4,8 @@
 
 The **My Chill Spot** feature provides guided relaxation activities to help you feel calm, manage your emotions, and reduce stress. You can choose from simple exercises designed to promote relaxation and focus.
 
+![Chill Spot](../assets/chill%20spot%20gif.gif)
+
 ## Opening My Chill Spot
 
 1. Open the **MyChild Helpline** app.
