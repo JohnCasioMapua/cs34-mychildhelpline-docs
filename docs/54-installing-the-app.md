@@ -14,9 +14,7 @@ Before using the **MyChild Helpline** app, download and install it on your mobil
 
 The app icon appears on your home screen when the installation is complete.
 
-<p align="center">
-  <img src="assets/installing-the-app.gif" alt="Installing the app" width="300">
-</p>
+![Installing the app](assets/installing-the-app.gif)
 
 ## Installing on Android
 
