@@ -4,6 +4,8 @@
 
 The **MyChild Helpline** section provides information about the app, its features, long-term goals, key partners, and available resources. You can browse articles and learn more about the services offered through the integrated website.
 
+![Demo GIF](../assets/mychildhelplinefeature.gif)
+
 ## Opening MyChild Helpline
 
 1. Open the **MyChild Helpline** app.
