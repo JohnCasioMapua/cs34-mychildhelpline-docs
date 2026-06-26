@@ -1,66 +1,71 @@
-# Security Administration
+# Manage Security Administration
 
-## Purpose
+## Overview
 
-The Security Administration feature enables administrators to manage system security, monitor access, and protect sensitive information within the MyChild Helpline system. This module helps ensure that only authorized users can access administrative functions and that system data remains secure and protected.
+The **Security Administration** feature allows administrators to manage system security, monitor access, and protect sensitive information within the **MyChild Helpline** system. This helps ensure that only authorized users can access administrative functions and system data.
 
-## Prerequisites
+## Before You Begin
 
-* The administrator has a valid administrator account.
-* The administrator is logged in to the administrative dashboard.
-* The administrator has permission to access security administration functions.
+Make sure that:
 
-## Procedure
+* You have a valid administrator account.
+* You are signed in to the administrative dashboard.
+* You have permission to access security administration functions.
 
-### Step 1: Access the Security Administration Module
+## Opening Security Administration
 
-Log in to the administrative dashboard and navigate to the **Security Administration** section.
+1. Sign in to the administrative dashboard.
+2. Navigate to **Security Administration**.
 
-### Step 2: Review Security Settings
+The system displays the available security settings and management options.
 
-View the current security settings and configurations applied to the system.
+## Reviewing Security Settings
 
-### Step 3: Manage Administrator Access
+Review the current security configurations applied to the system.
 
-Review administrator accounts and verify that access permissions are assigned appropriately.
+## Managing Administrator Access
 
-### Step 4: Monitor System Activity
+1. Review the list of administrator accounts.
+2. Verify that access permissions are assigned appropriately.
+3. Update permissions if necessary.
 
-Review system logs and account activities to identify unauthorized access attempts or unusual system behavior.
+The system applies the updated administrator access settings.
 
-### Step 5: Update Security Configurations
+## Monitoring System Activity
 
-Modify security settings as necessary, including:
+Review system logs and account activity to identify unauthorized access attempts or unusual behavior.
+
+## Updating Security Configurations
+
+1. Modify the required security settings.
+
+Available options may include:
 
 * Account permissions
 * Password requirements
 * Access restrictions
 * Security preferences
 
-### Step 6: Save Changes
+2. Select **Save** to apply the changes.
 
-Select **Save** to apply the updated security settings.
+The system updates the selected security configurations.
 
-### Step 7: Verify Security Status
+## Verifying Security Status
 
-Confirm that the updated security settings have been successfully implemented and that the system remains secure and operational.
-
-## Expected Result
-
-Security settings are successfully managed, administrator access is properly controlled, and system activities are monitored to maintain the confidentiality, integrity, and availability of system information.
+After saving, confirm that the updated settings have been applied successfully and that the system remains secure and operational.
 
 ## Troubleshooting
 
-| Issue                                   | Solution                                                                                   |
-| --------------------------------------- | ------------------------------------------------------------------------------------------ |
-| Unable to access security settings      | Verify that the administrator account has the required permissions.                        |
-| Administrator permissions are incorrect | Review and update access settings accordingly.                                             |
-| System activity logs do not load        | Refresh the page and verify system connectivity.                                           |
-| Changes are not applied                 | Save the configuration again and confirm that the changes have been successfully recorded. |
+| **Issue**                               | **Recommended Solution**                                                              |
+| --------------------------------------- | ------------------------------------------------------------------------------------- |
+| Unable to access security settings      | Verify that your administrator account has the required permissions.                  |
+| Administrator permissions are incorrect | Review and update the access settings accordingly.                                    |
+| System activity logs do not load        | Refresh the page and verify system connectivity.                                      |
+| Changes are not applied                 | Save the configuration again and confirm that the changes were recorded successfully. |
 
 ## Additional Notes
 
-* Access to security administration functions should be limited to authorized administrators only.
-* Security settings should be reviewed periodically to ensure continued system protection.
-* Administrator accounts and permissions should be monitored regularly to prevent unauthorized access.
-* Any suspected security incidents should be documented and investigated immediately.
+* Access to **Security Administration** should be limited to authorized administrators.
+* Review security settings periodically to maintain system protection.
+* Regularly monitor administrator accounts and permissions to prevent unauthorized access.
+* Document and investigate any suspected security incidents as soon as they are identified.
