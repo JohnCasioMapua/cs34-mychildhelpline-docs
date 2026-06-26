@@ -14,6 +14,9 @@ Before using the **MyChild Helpline** app, download and install it on your mobil
 
 The app icon appears on your home screen when the installation is complete.
 
+<img width="800" height="1731" alt="installingtheapp-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/de02439a-efa1-4eea-89e2-d02241c61e89" />
+
+
 ## Installing on Android
 
 1. Open the **Google Play Store** on your Android device.
