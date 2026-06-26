@@ -4,6 +4,8 @@
 
 The **Counseling** feature connects you with a licensed counselor through an online appointment. If you need professional help, request a session.
 
+![Request for Counselling](../assets/request-for-counselling.gif)
+
 ## Submitting a Session Request
 
 1. Open the **MyChild Helpline** app.
