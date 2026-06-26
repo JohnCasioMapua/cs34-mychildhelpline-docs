@@ -4,6 +4,8 @@
 
 The **Parenting Hub** provides articles, videos, and other resources to help parents and caregivers support their children's growth, development, and well-being.
 
+![The Parenting Hub](../assets/the-parenting-hub.gif)
+
 ## Opening the Parenting Hub
 
 1. Open the **MyChild Helpline** app.
