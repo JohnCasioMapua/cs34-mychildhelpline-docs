@@ -4,6 +4,8 @@
 
 The **Arcade** is a collection of games in the app. It gives you a fun way to take a break. You can play alone against the app or challenge a friend on the same device. New games are added to the Arcade over time.
 
+![Chill Spot](../assets/chill%20spot%20gif.gif)
+
 ## Opening the Arcade
 
 1. Open the **MyChild Helpline** app.
