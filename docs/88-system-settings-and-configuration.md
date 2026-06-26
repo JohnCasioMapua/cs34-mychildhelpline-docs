@@ -1,28 +1,33 @@
-# System Settings and Configuration
+# Manage System Settings and Configuration
 
-## Purpose
+## Overview
 
-The System Settings and Configuration feature enables administrators to manage application settings and customize system behavior. This module allows administrators to maintain system functionality, update configurations, and ensure that the MyChild Helpline platform operates according to organizational requirements.
+The **System Settings and Configuration** feature allows administrators to manage application settings and customize system behavior. This helps ensure that the **MyChild Helpline** platform operates according to organizational requirements.
 
-## Prerequisites
+## Before You Begin
 
-* The administrator has a valid administrator account.
-* The administrator is logged in to the administrative dashboard.
-* The administrator has permission to modify system settings.
+Make sure that:
 
-## Procedure
+* You have a valid administrator account.
+* You are signed in to the administrative dashboard.
+* You have permission to modify system settings.
 
-### Step 1: Access the System Settings Module
+## Opening System Settings
 
-Log in to the administrative dashboard and navigate to the **System Settings and Configuration** section.
+1. Sign in to the administrative dashboard.
+2. Navigate to **System Settings and Configuration**.
 
-### Step 2: View Current Settings
+The system displays the available configuration options.
+
+## Viewing Current Settings
 
 Review the existing system settings and configuration options displayed on the page.
 
-### Step 3: Select a Configuration Category
+## Modifying Configuration Settings
 
-Choose the configuration category that requires modification, such as:
+1. Select the configuration category you want to update.
+
+Available categories may include:
 
 * General Settings
 * Application Preferences
@@ -30,28 +35,21 @@ Choose the configuration category that requires modification, such as:
 * Content Settings
 * Country-Specific Configurations
 
-### Step 4: Modify Settings
+2. Update the required settings based on your operational needs.
+3. Select **Save** to apply the changes.
 
-Update the necessary settings according to operational requirements.
+The system updates the selected configuration settings.
 
-### Step 5: Save Configuration Changes
+## Verifying Changes
 
-Select **Save** to apply the updated configuration settings.
-
-### Step 6: Verify Changes
-
-Review the system to ensure that the configuration changes have been successfully implemented.
-
-## Expected Result
-
-The selected configuration settings are successfully updated and applied throughout the MyChild Helpline system.
+After saving, review the affected features or settings to confirm that the changes have been successfully applied throughout the system.
 
 ## Troubleshooting
 
-| Issue                                                 | Solution                                                                    |
+| **Issue**                                             | **Recommended Solution**                                                    |
 | ----------------------------------------------------- | --------------------------------------------------------------------------- |
-| Settings cannot be modified                           | Verify that the administrator account has the required permissions.         |
-| Changes are not applied                               | Ensure that the changes have been saved and refresh the page.               |
+| Settings cannot be modified                           | Verify that your administrator account has the required permissions.        |
+| Changes are not applied                               | Ensure the changes have been saved, then refresh the page.                  |
 | Incorrect system behavior after configuration changes | Review recent modifications and restore the previous settings if necessary. |
 | Configuration page does not load                      | Check system connectivity and try again.                                    |
 
@@ -59,5 +57,5 @@ The selected configuration settings are successfully updated and applied through
 
 * Only authorized administrators should modify system configurations.
 * Configuration changes may affect the availability and functionality of system features.
-* Administrators should review changes carefully before saving to prevent unintended system behavior.
-* Significant configuration changes should be documented for future reference and maintenance.
+* Review all changes carefully before saving to prevent unintended system behavior.
+* Document significant configuration changes for future reference and maintenance.
