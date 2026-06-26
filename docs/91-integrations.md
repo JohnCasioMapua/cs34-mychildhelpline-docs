@@ -1,55 +1,53 @@
-# Integrations
+# Manage Integrations
 
-## Purpose
+## Overview
 
-The Integrations feature enables administrators to manage and monitor connections between the MyChild Helpline system and external services, platforms, and resources. This module ensures that integrated services function properly and provide users with access to additional features and information.
+The **Integrations** feature allows administrators to manage and monitor connections between the **MyChild Helpline** system and external services, platforms, and resources. This helps ensure that integrated features remain available and function correctly.
 
-## Prerequisites
+## Before You Begin
 
-* The administrator has a valid administrator account.
-* The administrator is logged in to the administrative dashboard.
-* The administrator has permission to manage system integrations.
+Make sure that:
 
-## Procedure
+* You have a valid administrator account.
+* You are signed in to the administrative dashboard.
+* You have permission to manage system integrations.
 
-### Step 1: Access the Integrations Module
+## Opening Integrations
 
-Log in to the administrative dashboard and navigate to the **Integrations** section.
+1. Sign in to the administrative dashboard.
+2. Navigate to **Integrations**.
 
-### Step 2: View Existing Integrations
+The system displays the available external services and connected platforms.
 
-Review the list of connected external services and integrated platforms available within the system.
+## Viewing Existing Integrations
 
-### Step 3: Select an Integration
+Review the list of configured integrations and their current connection status.
 
-Choose the integration that requires configuration, monitoring, or maintenance.
+## Configuring an Integration
 
-### Step 4: Configure Integration Settings
+1. Select the integration you want to manage.
+2. Review or update the necessary settings.
 
-Review and update the necessary integration information, such as:
+Configuration options may include:
 
 * Service name
 * Connection status
 * Configuration settings
 * Access credentials (if applicable)
 
-### Step 5: Save Changes
+3. Select **Save** to apply the changes.
 
-Select **Save** to apply the updated integration settings.
+The system updates the selected integration settings.
 
-### Step 6: Verify Integration Status
+## Verifying Integration Status
 
-Confirm that the integration is active and functioning properly by reviewing its connection status and performing any necessary tests.
-
-## Expected Result
-
-The selected integration is successfully configured and operational, allowing the MyChild Helpline system to communicate with connected external services and resources.
+After saving, confirm that the integration is active and functioning correctly by reviewing its connection status or performing any available connection tests.
 
 ## Troubleshooting
 
-| Issue                                   | Solution                                                                      |
+| **Issue**                               | **Recommended Solution**                                                      |
 | --------------------------------------- | ----------------------------------------------------------------------------- |
-| Integration cannot be accessed          | Verify that the administrator account has the required permissions.           |
+| Integration cannot be accessed          | Verify that your administrator account has the required permissions.          |
 | Connection to an external service fails | Check the configuration settings and verify network connectivity.             |
 | Changes are not applied                 | Save the configuration again and refresh the page.                            |
 | Integration status is inactive          | Review the connection settings and re-establish the integration if necessary. |
@@ -57,6 +55,6 @@ The selected integration is successfully configured and operational, allowing th
 ## Additional Notes
 
 * Only authorized administrators should modify integration settings.
-* Integration configurations should be reviewed periodically to ensure continued functionality.
-* Changes to integration settings may affect the availability of connected services and features.
-* Administrators should document significant configuration changes for maintenance and troubleshooting purposes.
+* Review integration configurations periodically to ensure continued functionality.
+* Changes to integration settings may affect connected services and system features.
+* Document significant configuration changes for future maintenance and troubleshooting.
