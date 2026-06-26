@@ -4,6 +4,8 @@
 
 The **My Rights** feature presents the **United Nations Convention on the Rights of the Child (UNCRC)** in a simple and interactive format. You can read about children's rights, listen to audio, and navigate through each right using swipe gestures.
 
+![My Rights](../assets/my-rights.gif)
+
 ## Opening My Rights
 
 1. Open the **MyChild Helpline** app.
