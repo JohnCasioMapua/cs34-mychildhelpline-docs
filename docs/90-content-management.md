@@ -1,32 +1,45 @@
-# Content Management
+# Manage Content
 
-## Purpose
+## Overview
 
-The Content Management feature enables administrators to create, update, organize, and maintain informational content within the MyChild Helpline system. This module ensures that users have access to accurate, relevant, and up-to-date resources, including articles, workshops, announcements, and counseling-related materials.
+The **Content Management** feature allows administrators to create, update, organize, and publish informational resources within the **MyChild Helpline** system. This helps ensure that users have access to accurate, relevant, and up-to-date content.
 
-## Prerequisites
+## Before You Begin
 
-* The administrator has a valid administrator account.
-* The administrator is logged in to the administrative dashboard.
-* The administrator has permission to manage system content.
+Make sure that:
 
-## Procedure
+* You have a valid administrator account.
+* You are signed in to the administrative dashboard.
+* You have permission to manage system content.
 
-### Step 1: Access the Content Management Module
+## Opening Content Management
 
-Log in to the administrative dashboard and navigate to the **Content Management** section.
+1. Sign in to the administrative dashboard.
+2. Navigate to **Content Management**.
 
-### Step 2: View Existing Content
+The system displays the available content and management options.
 
-Review the list of available content, including articles, workshops, announcements, and other informational resources.
+## Viewing Existing Content
 
-### Step 3: Create or Select Content
+Review the list of available resources, which may include:
 
-To add new content, select **Create Content**. To modify existing content, select the desired content item from the list.
+* Articles
+* Workshops
+* Announcements
+* Counseling-related materials
+* Other informational content
 
-### Step 4: Manage Content Information
+## Creating or Editing Content
 
-Enter or update the necessary information, such as:
+To create new content:
+
+1. Select **Create Content**.
+
+To edit existing content:
+
+1. Select the content item you want to modify.
+
+Enter or update the required information, such as:
 
 * Title
 * Description
@@ -34,30 +47,25 @@ Enter or update the necessary information, such as:
 * Content Body
 * Publication Status
 
-### Step 5: Save Changes
+## Saving and Publishing Content
 
-Select **Save** to apply the changes made to the content.
+1. Select **Save** to store your changes.
+2. Publish the new content or update the existing content to make it available to users.
 
-### Step 6: Publish or Update Content
-
-Publish the new content or update the existing content to make it available to users.
-
-## Expected Result
-
-The content is successfully created, updated, organized, or published and becomes available within the MyChild Helpline application.
+The system applies the changes and updates the content accordingly.
 
 ## Troubleshooting
 
-| Issue                                                | Solution                                                                        |
-| ---------------------------------------------------- | ------------------------------------------------------------------------------- |
-| Unable to create content                             | Verify that all required fields are completed.                                  |
-| Changes are not saved                                | Ensure that the information entered is valid and try saving again.              |
-| Published content does not appear in the application | Refresh the system and verify that the content has been published successfully. |
-| Access to Content Management is restricted           | Verify that the administrator account has the necessary permissions.            |
+| **Issue**                                            | **Recommended Solution**                                                   |
+| ---------------------------------------------------- | -------------------------------------------------------------------------- |
+| Unable to create content                             | Verify that all required fields are completed.                             |
+| Changes are not saved                                | Ensure the entered information is valid and try saving again.              |
+| Published content does not appear in the application | Refresh the system and verify that the content was published successfully. |
+| Access to **Content Management** is restricted       | Verify that your administrator account has the necessary permissions.      |
 
 ## Additional Notes
 
 * Only authorized administrators should create or modify system content.
-* Content should be reviewed regularly to ensure that information remains accurate and relevant.
-* Outdated or unnecessary content should be updated, archived, or removed as appropriate.
-* Administrators should follow organizational guidelines when publishing content to maintain consistency and quality.
+* Review content regularly to ensure information remains accurate and relevant.
+* Update, archive, or remove outdated content when appropriate.
+* Follow organizational guidelines when publishing content to maintain consistency and quality.
