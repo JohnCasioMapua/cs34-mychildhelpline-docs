@@ -1,179 +1,306 @@
-<main>
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MyChild Helpline Documentation</title>
 
-    <!-- Getting Started -->
-    <section>
-        <h2>Getting Started</h2>
+    <style>
+        :root {
+            --bg: #f8f9fa;
+            --text: #212529;
+            --card-bg: #ffffff;
+            --border: #e9ecef;
+            --accent: #0366d6;
+        }
 
-        <div class="grid">
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+                         Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: var(--text);
+            background-color: var(--bg);
+            margin: 0;
+            padding: 2rem 1rem;
+        }
 
-            <a href="docs/54-downloading-the-application.html" class="card">
-                <h3>Download Application</h3>
-                <p>Download and install the MyChild Helpline application on your device.</p>
-            </a>
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
 
-            <a href="docs/54-launching-the-application.html" class="card">
-                <h3>Launch Application</h3>
-                <p>Open the application and begin using its features.</p>
-            </a>
+        header {
+            margin-bottom: 3rem;
+            border-bottom: 2px solid var(--border);
+            padding-bottom: 1.5rem;
+        }
 
-            <a href="docs/33-set-up-profile.html" class="card">
-                <h3>Set Up Profile</h3>
-                <p>Configure your account and personalize your profile.</p>
-            </a>
+        h1 {
+            font-size: 2.25rem;
+            margin: 0 0 0.5rem 0;
+            color: #1a1a1a;
+        }
 
-        </div>
-    </section>
+        .subtitle {
+            color: #6a737d;
+            font-size: 1.1rem;
+            margin: 0;
+        }
 
-    <!-- User Features -->
-    <section>
-        <h2>User Features</h2>
+        section {
+            margin-bottom: 2.5rem;
+        }
 
-        <div class="grid">
+        h2 {
+            font-size: 1.5rem;
+            color: #24292e;
+            border-bottom: 1px solid var(--border);
+            padding-bottom: 0.3rem;
+        }
 
-            <a href="docs/34-making-a-call.html" class="card">
-                <h3>Making a Call</h3>
-                <p>Contact the helpline through the in-app calling feature.</p>
-            </a>
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+            gap: 1.5rem;
+            margin-top: 1rem;
+        }
 
-            <a href="docs/35-send-messages-via-chat-helpline.html" class="card">
-                <h3>Chat Helpline</h3>
-                <p>Send messages and communicate with support through chat.</p>
-            </a>
+        .card {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            padding: 1.5rem;
+            transition: transform .2s, box-shadow .2s;
+            text-decoration: none;
+            color: inherit;
+            display: flex;
+            flex-direction: column;
+        }
 
-            <a href="docs/36-request-counseling.html" class="card">
-                <h3>Request Counseling</h3>
-                <p>Submit and manage counseling requests.</p>
-            </a>
+        .card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 4px 12px rgba(0,0,0,.05);
+            border-color: var(--accent);
+        }
 
-            <a href="docs/39-use-the-my-diary-feature.html" class="card">
-                <h3>My Diary</h3>
-                <p>Record and manage personal diary entries securely.</p>
-            </a>
+        .card h3 {
+            margin: 0 0 .5rem 0;
+            color: var(--accent);
+            font-size: 1.2rem;
+        }
 
-            <a href="docs/40-play-games-arcade.html" class="card">
-                <h3>Arcade</h3>
-                <p>Access educational and recreational games.</p>
-            </a>
+        .card p {
+            margin: 0;
+            color: #586069;
+            font-size: .95rem;
+        }
 
-            <a href="docs/41-read-articles-in-blog-section.html" class="card">
-                <h3>Read Articles</h3>
-                <p>Browse informative articles and blog content.</p>
-            </a>
+        footer {
+            margin-top: 4rem;
+            text-align: center;
+            color: #6a737d;
+            font-size: .85rem;
+        }
+    </style>
+</head>
 
-            <a href="docs/42-access-mychild-online-services.html" class="card">
-                <h3>Online Services</h3>
-                <p>Explore integrated online support services.</p>
-            </a>
+<body>
 
-            <a href="docs/59-the-parenting-hub.html" class="card">
-                <h3>Parenting Hub</h3>
-                <p>Access parenting resources, guidance, and educational materials.</p>
-            </a>
+<div class="container">
 
-            <a href="docs/60-my-rights-feature.html" class="card">
-                <h3>My Rights Feature</h3>
-                <p>Learn about children's rights and protections.</p>
-            </a>
+    <header>
+        <h1>MyChild Helpline Documentation</h1>
+        <p class="subtitle">
+            Technical Documentation & User Guides Repository
+        </p>
+    </header>
 
-        </div>
-    </section>
+    <main>
 
-    <!-- Resources -->
-    <section>
-        <h2>Resources & Support</h2>
+        <!-- Getting Started -->
+        <section>
+            <h2>Getting Started</h2>
 
-        <div class="grid">
+            <div class="grid">
 
-            <a href="docs/38-view-child-rights.html" class="card">
-                <h3>View Child Rights</h3>
-                <p>Understand child rights through educational resources.</p>
-            </a>
+                <a href="docs/54-downloading-the-application.html" class="card">
+                    <h3>Download Application</h3>
+                    <p>Install MyChild Helpline on your device.</p>
+                </a>
 
-            <a href="docs/73-unicef-eastern-caribbean-areas.html" class="card">
-                <h3>UNICEF Resources</h3>
-                <p>Access UNICEF Eastern Caribbean information and services.</p>
-            </a>
+                <a href="docs/54-launching-the-application.html" class="card">
+                    <h3>Launch Application</h3>
+                    <p>Open and start using the application.</p>
+                </a>
 
-            <a href="docs/74-government-services.html" class="card">
-                <h3>Government Services</h3>
-                <p>Find government agencies and support services.</p>
-            </a>
+                <a href="docs/33-set-up-profile.html" class="card">
+                    <h3>Set Up Profile</h3>
+                    <p>Create and personalize your user profile.</p>
+                </a>
 
-            <a href="docs/78-policies.html" class="card">
-                <h3>Policies</h3>
-                <p>Review application policies and guidelines.</p>
-            </a>
+            </div>
+        </section>
 
-            <a href="docs/64-troubleshooting-guide.html" class="card">
-                <h3>Troubleshooting Guide</h3>
-                <p>Resolve common issues and frequently encountered problems.</p>
-            </a>
+        <!-- Core Features -->
+        <section>
+            <h2>Core Features</h2>
 
-        </div>
-    </section>
+            <div class="grid">
 
-    <!-- Administration -->
-    <section>
-        <h2>Administration</h2>
+                <a href="docs/34-making-a-call.html" class="card">
+                    <h3>Making a Call</h3>
+                    <p>Contact the helpline through voice calls.</p>
+                </a>
 
-        <div class="grid">
+                <a href="docs/35-send-messages-via-chat-helpline.html" class="card">
+                    <h3>Chat Helpline</h3>
+                    <p>Send messages using the chat feature.</p>
+                </a>
 
-            <a href="docs/87-user-management.html" class="card">
-                <h3>User Management</h3>
-                <p>Manage user accounts and permissions.</p>
-            </a>
+                <a href="docs/36-request-counseling.html" class="card">
+                    <h3>Request Counseling</h3>
+                    <p>Request professional counseling support.</p>
+                </a>
 
-            <a href="docs/88-system-settings-and-configuration.html" class="card">
-                <h3>System Settings</h3>
-                <p>Configure system preferences and application settings.</p>
-            </a>
+                <a href="docs/39-use-the-my-diary-feature.html" class="card">
+                    <h3>My Diary</h3>
+                    <p>Keep personal journal entries securely.</p>
+                </a>
 
-            <a href="docs/89-data-management-and-backups.html" class="card">
-                <h3>Data Management</h3>
-                <p>Handle backups and data maintenance procedures.</p>
-            </a>
+                <a href="docs/40-play-games-arcade.html" class="card">
+                    <h3>Arcade</h3>
+                    <p>Play interactive games and activities.</p>
+                </a>
 
-            <a href="docs/90-content-management.html" class="card">
-                <h3>Content Management</h3>
-                <p>Manage articles, resources, and published content.</p>
-            </a>
+                <a href="docs/41-read-articles-in-blog-section.html" class="card">
+                    <h3>Read Articles</h3>
+                    <p>Browse educational blogs and resources.</p>
+                </a>
 
-            <a href="docs/91-integrations.html" class="card">
-                <h3>Integrations</h3>
-                <p>Configure external services and system integrations.</p>
-            </a>
+                <a href="docs/42-access-mychild-online-services.html" class="card">
+                    <h3>Online Services</h3>
+                    <p>Access integrated online support services.</p>
+                </a>
 
-            <a href="docs/92-reporting-and-analytics.html" class="card">
-                <h3>Reporting & Analytics</h3>
-                <p>Generate reports and review analytics data.</p>
-            </a>
+                <a href="docs/59-the-parenting-hub.html" class="card">
+                    <h3>Parenting Hub</h3>
+                    <p>Resources and guidance for parents.</p>
+                </a>
 
-            <a href="docs/93-security-administration.html" class="card">
-                <h3>Security Administration</h3>
-                <p>Manage security settings and administrative controls.</p>
-            </a>
+                <a href="docs/60-my-rights-feature.html" class="card">
+                    <h3>My Rights Feature</h3>
+                    <p>Learn about children's rights and protections.</p>
+                </a>
 
-            <a href="docs/94-system-maintenance.html" class="card">
-                <h3>System Maintenance</h3>
-                <p>Perform routine maintenance and monitoring tasks.</p>
-            </a>
+            </div>
+        </section>
 
-        </div>
-    </section>
+        <!-- Resources -->
+        <section>
+            <h2>Resources & Support</h2>
 
-    <!-- Project Documentation -->
-    <section>
-        <h2>Project Documentation</h2>
+            <div class="grid">
 
-        <div class="grid">
+                <a href="docs/38-view-child-rights.html" class="card">
+                    <h3>View Child Rights</h3>
+                    <p>Explore child rights information.</p>
+                </a>
 
-            <a href="docs/43-usability-plan.html" class="card">
-                <h3>Usability Plan</h3>
-                <p>Documentation for usability testing and evaluation procedures.</p>
-            </a>
+                <a href="docs/64-troubleshooting-guide.html" class="card">
+                    <h3>Troubleshooting Guide</h3>
+                    <p>Resolve common issues and problems.</p>
+                </a>
 
-        </div>
-    </section>
+                <a href="docs/73-unicef-eastern-caribbean-areas.html" class="card">
+                    <h3>UNICEF Resources</h3>
+                    <p>Access UNICEF Eastern Caribbean information.</p>
+                </a>
 
-</main>
+                <a href="docs/74-government-services.html" class="card">
+                    <h3>Government Services</h3>
+                    <p>Find government support services.</p>
+                </a>
+
+                <a href="docs/78-policies.html" class="card">
+                    <h3>Policies</h3>
+                    <p>Read application policies and guidelines.</p>
+                </a>
+
+            </div>
+        </section>
+
+        <!-- Administrator Guides -->
+        <section>
+            <h2>Administrator Guides</h2>
+
+            <div class="grid">
+
+                <a href="docs/87-user-management.html" class="card">
+                    <h3>User Management</h3>
+                    <p>Manage users and permissions.</p>
+                </a>
+
+                <a href="docs/88-system-settings-and-configuration.html" class="card">
+                    <h3>System Settings</h3>
+                    <p>Configure system preferences.</p>
+                </a>
+
+                <a href="docs/89-data-management-and-backups.html" class="card">
+                    <h3>Data Management</h3>
+                    <p>Manage backups and stored data.</p>
+                </a>
+
+                <a href="docs/90-content-management.html" class="card">
+                    <h3>Content Management</h3>
+                    <p>Update articles and application content.</p>
+                </a>
+
+                <a href="docs/91-integrations.html" class="card">
+                    <h3>Integrations</h3>
+                    <p>Configure external system integrations.</p>
+                </a>
+
+                <a href="docs/92-reporting-and-analytics.html" class="card">
+                    <h3>Reporting & Analytics</h3>
+                    <p>Generate reports and review analytics.</p>
+                </a>
+
+                <a href="docs/93-security-administration.html" class="card">
+                    <h3>Security Administration</h3>
+                    <p>Manage security settings and controls.</p>
+                </a>
+
+                <a href="docs/94-system-maintenance.html" class="card">
+                    <h3>System Maintenance</h3>
+                    <p>Maintain and monitor the application.</p>
+                </a>
+
+            </div>
+        </section>
+
+        <!-- Project -->
+        <section>
+            <h2>Project Documentation</h2>
+
+            <div class="grid">
+
+                <a href="docs/43-usability-plan.html" class="card">
+                    <h3>Usability Plan</h3>
+                    <p>Documentation for usability testing and evaluation.</p>
+                </a>
+
+            </div>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>Built with GitHub Pages &bull; MyChild Helpline Documentation</p>
+    </footer>
+
+</div>
+
+</body>
+</html>
 ```
