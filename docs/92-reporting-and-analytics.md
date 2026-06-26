@@ -1,67 +1,72 @@
-# Reporting and Analytics
+# View Reports and Analytics
 
-## Purpose
+## Overview
 
-The Reporting and Analytics feature enables administrators to monitor system usage, review user activity, and generate reports based on data collected within the MyChild Helpline system. This module provides insights that support decision-making, system evaluation, and service improvement.
+The **Reporting and Analytics** feature allows administrators to monitor system usage, review user activity, and generate reports from data collected within the **MyChild Helpline** system. These insights support decision-making, system evaluation, and service improvement.
 
-## Prerequisites
+## Before You Begin
 
-* The administrator has a valid administrator account.
-* The administrator is logged in to the administrative dashboard.
-* The administrator has permission to access reports and analytics data.
+Make sure that:
 
-## Procedure
+* You have a valid administrator account.
+* You are signed in to the administrative dashboard.
+* You have permission to access reports and analytics.
 
-### Step 1: Access the Reporting and Analytics Module
+## Opening Reporting and Analytics
 
-Log in to the administrative dashboard and navigate to the **Reporting and Analytics** section.
+1. Sign in to the administrative dashboard.
+2. Navigate to **Reporting and Analytics**.
 
-### Step 2: View Available Reports
+The system displays the available reports and analytics dashboards.
 
-Review the list of available reports and analytics dashboards provided by the system.
+## Viewing Available Reports
 
-### Step 3: Select a Report
+Review the list of reports and analytics categories available within the system.
 
-Choose the report or analytics category that you want to view, such as:
+Available reports may include:
 
 * User Activity Reports
 * System Usage Statistics
 * Content Engagement Reports
 * Service Utilization Reports
 
-### Step 4: Apply Filters
+## Generating a Report
 
-Specify the desired report parameters, including:
+1. Select the report you want to view.
+2. Apply the desired filters.
+
+Available filters may include:
 
 * Date range
 * Report category
 * User group
 * Specific system activities
 
-### Step 5: Generate the Report
+3. Select **Generate Report**.
 
-Select **Generate Report** to display the requested data and analytics.
+The system displays the requested report and analytics data.
 
-### Step 6: Review and Export Data
+## Reviewing and Exporting Reports
 
-Analyze the generated report and export the information if a copy is required for documentation or further analysis.
+After the report is generated:
 
-## Expected Result
+1. Review the displayed information.
+2. Export the report if a copy is needed for documentation or further analysis.
 
-The selected report is successfully generated and displayed, providing administrators with relevant information regarding system usage, user activity, and service performance.
+The exported report can be used for monitoring system performance and supporting administrative decisions.
 
 ## Troubleshooting
 
-| Issue                          | Solution                                                                                    |
-| ------------------------------ | ------------------------------------------------------------------------------------------- |
-| Report fails to generate       | Verify the selected filters and try generating the report again.                            |
-| Report data appears incomplete | Refresh the page and ensure that the selected date range and report parameters are correct. |
-| Unable to export reports       | Verify that the administrator account has the necessary permissions and try again.          |
-| Analytics page does not load   | Check system connectivity and refresh the application.                                      |
+| **Issue**                      | **Recommended Solution**                                                               |
+| ------------------------------ | -------------------------------------------------------------------------------------- |
+| Report fails to generate       | Verify the selected filters and try generating the report again.                       |
+| Report data appears incomplete | Refresh the page and ensure the selected date range and report parameters are correct. |
+| Unable to export reports       | Verify that your administrator account has the necessary permissions and try again.    |
+| Analytics page does not load   | Check system connectivity and refresh the application.                                 |
 
 ## Additional Notes
 
-* Reports and analytics should be reviewed regularly to monitor system performance and user engagement.
-* Exported reports should be stored securely and handled in accordance with organizational data policies.
-* Access to reports containing sensitive information should be limited to authorized administrators.
-* Data obtained from reports and analytics may be used to support system improvements and decision-making processes.
+* Review reports regularly to monitor system performance and user engagement.
+* Store exported reports securely and handle them according to organizational data policies.
+* Restrict access to reports containing sensitive information to authorized administrators.
+* Use reporting and analytics data to support system improvements and informed decision-making.
