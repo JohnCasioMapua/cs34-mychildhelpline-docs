@@ -12,3 +12,4 @@ After installing the **MyChild Helpline** app, open it on your device to registe
 4. Complete the account registration process or sign in to your existing account.
 
 The home screen appears after you successfully register or sign in, allowing you to access the app's features.
+![Installing the App](../assets/installingtheapp-ezgif.com-video-to-gif-converter.gif)
