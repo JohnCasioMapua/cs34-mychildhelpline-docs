@@ -4,6 +4,8 @@
 
 The **UNICEF Eastern Caribbean Area** section provides access to UNICEF news, programmes, stories, research, and donation opportunities. You can browse articles, learn about UNICEF initiatives, and support their work through the integrated website.
 
+![UNICEF Eastern](../assets/unicef-eastern.gif)
+
 ## Opening UNICEF Eastern Caribbean Area
 
 1. Open the **MyChild Helpline** app.
