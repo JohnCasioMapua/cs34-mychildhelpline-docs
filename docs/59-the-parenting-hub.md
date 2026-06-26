@@ -1,133 +1,101 @@
-# Parenting Hub User Guide
+# Use the Parenting Hub
 
-## Accessing the parenting hub
+## Overview
 
-### Opening the feature
-To access the Parenting Hub:
+The **Parenting Hub** provides articles, videos, and other resources to help parents and caregivers support their children's growth, development, and well-being.
 
-1. Open the **MyChild Helpline App**.
-2. Go to the bottom navigation bar.
-3. Tap **Information Kiosk**.
-4. Select **Parenting Hub**.
+## Opening the Parenting Hub
 
-The app redirects you to the Parenting Hub website.
+1. Open the **MyChild Helpline** app.
+2. Select **Information Kiosk** from the bottom navigation bar.
+3. Select **Parenting Hub**.
 
-## Navigating the parenting hub page
+The app redirects you to the **Parenting Hub** website.
 
-### Viewing content
+## Browsing Parenting Content
+
 After the page loads, you can:
 
-- Scroll down to read articles and watch videos.
-- Browse parenting topics directly on the page.
+* Scroll through articles and videos.
+* Browse parenting topics directly on the page.
 
 The content is organized for easy browsing and learning.
 
-## Exploring parenting topics
+## Exploring Parenting Topics
 
-### I’m interested in section
-Scroll to the **“I’m interested in…”** section to explore available topics.
+### I'm Interested In
 
-Tap a category to view related content.
+Scroll to the **I'm Interested In** section and select a category to view related content.
 
-### Child development
-Select **Child Development** to access learning materials, including articles and videos.
+### Child Development
 
-Subtopics include:
+Select **Child Development** to access learning materials, including:
 
-- Pregnancy
-- Developmental milestones
-- Baby and toddler development
-- Preparing my child for school
+* Pregnancy
+* Developmental milestones
+* Baby and toddler development
+* Preparing my child for school
 
-Each subtopic contains related articles and videos.
+### Child Care
 
-### Child care
-Select **Child Care** to view parenting guidance and support content.
+Select **Child Care** to view parenting guidance, including:
 
-Subtopics include:
+* Tips for new parents
+* Tips for parents of teens
+* Play inspiration
+* Navigating big conversations
+* Parenting in an emergency
+* Parenting stories
 
-- Tips for new parents
-- Tips for parents of teens
-- Play inspiration
-- Navigating big conversations
-- Parenting in an emergency
-- Parenting stories
+### Health and Well-being
 
-### Health and well-being
-Select **Health and Well-being** to access health-related parenting resources.
+Select **Health and Well-being** to access resources about:
 
-Subtopics include:
+* Baby health
+* Mental health and well-being
+* Protecting against childhood illnesses
+* Safety tips
+* Healthy habits
 
-- Baby health
-- Mental health and well-being
-- Protecting against childhood illnesses
-- Safety tips
-- Healthy habits
+### Food and Nutrition
 
-### Food and nutrition
-Select **Food and Nutrition** to view guidance on child nutrition.
+Select **Food and Nutrition** to explore topics such as:
 
-Subtopics include:
+* Breastfeeding
+* First foods
+* Healthy habits for life
 
-- Breastfeeding
-- First foods
-- Healthy habits for life
+## Signing Up for Updates
 
-## Sign up and subscription
+A sign-up page may appear when accessing certain sections of the **Parenting Hub**.
 
-### Optional sign up
-A sign-up page may appear when accessing new sections of the Parenting Hub.
+You may continue browsing without signing up or create an account to receive updates by email.
 
-You may:
-
-- Continue browsing without signing up.
-- Sign up to receive updates through email.
-
-### Creating an account
 To sign up:
 
 1. Enter your name.
 2. Enter your email address.
-3. Submit the form.
+3. Select **Submit**.
 
-You will receive updates in your email.
-
-### Subscription option
-Subscription allows users to receive parenting tips directly in their inbox. This requires personal details such as name and email address.
-
-## Navigation tools
+## Using Navigation Tools
 
 ### Menu
-Tap the **Menu** icon (three horizontal lines) at the top of the screen to:
 
-- Access topic categories:
-  - Child Development
-  - Child Care
-  - Health
-  - Food and Nutrition
-- View quick links:
-  - About
-  - Developmental milestones
-  - Mini parenting masterclass
-  - Partners
-- Select preferred language
-- Visit UNICEF Global
+Select the **Menu** icon to:
 
-### Search bar
-Use the search bar at the top of the screen to find specific topics or content.
+* Access topic categories
+* View quick links
+* Select your preferred language
+* Visit **UNICEF Global**
 
-## Additional features
+### Search
 
-### No back button
-The Parenting Hub does not include a back button. To navigate between pages, use the **Menu** or the search bar.
+Use the search bar at the top of the page to find specific topics or content.
 
-### Sharing content
-Tap the **Share** button located at the lower-right corner of the screen to share content via:
+## Sharing Content
 
-- Facebook
-- X
-- LinkedIn
-- WhatsApp
+Select the **Share** button in the lower-right corner of the screen to share content through supported apps and services.
 
-## Summary
-The Parenting Hub provides accessible parenting resources through articles, videos, and guided topics. Users can browse freely, search content, and optionally sign up for updates.
+## Navigation Note
+
+The **Parenting Hub** does not include a built-in back button. Use the **Menu** or the search bar to navigate between sections.
