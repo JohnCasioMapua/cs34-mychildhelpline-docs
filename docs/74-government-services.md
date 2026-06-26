@@ -4,6 +4,8 @@
 
 The **Government Services** section provides information about adoption, foster care, child protection, parenting resources, events, and support services. You can browse articles, explore educational resources, and access important child welfare information through the integrated website.
 
+![Demo GIF](../assets/gov services.gif)
+
 ## Opening Government Services
 
 1. Open the **MyChild Helpline** app.
