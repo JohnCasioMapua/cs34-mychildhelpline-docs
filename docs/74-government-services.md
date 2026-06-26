@@ -1,26 +1,24 @@
-# Government Services User Guide
+# Explore Government Services
 
-## Accessing Government Services
+## Overview
 
-### Opening the feature
+The **Government Services** section provides information about adoption, foster care, child protection, parenting resources, events, and support services. You can browse articles, explore educational resources, and access important child welfare information through the integrated website.
 
-To access Government Services:
+## Opening Government Services
 
-1. Open the **MyChild Helpline App**.
-2. Tap **Information Kiosk** from the bottom navigation bar.
+1. Open the **MyChild Helpline** app.
+2. Select **Information Kiosk** from the bottom navigation bar.
 3. Select **Government Services**.
 
-The app redirects you to the Government Services website.
+The app redirects you to the **Government Services** website.
 
----
+## Using the Navigation Menu
 
-## Navigating the home page
+1. Select the **Menu** icon in the upper-right corner of the screen.
+2. Browse the available sections.
+3. Select a topic to open it.
 
-### Main navigation menu
-
-The Government Services website includes a **Menu** button located at the top-right corner of the screen.
-
-Tap the **Menu** button to access the available sections:
+Available sections include:
 
 * Home
 * Adoption
@@ -50,55 +48,37 @@ Tap the **Menu** button to access the available sections:
 * About Us
 * Contact Us
 
-A search bar is also available at the bottom of the menu to help you find specific information.
+A search bar is available at the bottom of the menu to help you find specific information.
 
----
+## Using Quick Access Buttons
 
-## Quick access buttons
+The home page includes quick access buttons for commonly viewed topics.
 
-Below the page title, you can access important topics through the following buttons:
+You can select:
 
 * **Report a Child Abuse**
 * **What Is Child Abuse**
 * **Prevent Child Abuse**
 
-Tap any button to open the related information page.
+The selected page opens with additional information.
 
----
+## Learning About the Organization
 
-## Learning about the organization
+Scroll to the **Who We Are** section to read an overview of the organization and its services.
 
-### Who We Are section
+To view more information:
 
-Scroll down to view the **Who We Are** section.
-
-This section provides a brief overview of the organization and its services.
-
-To view additional information:
-
-1. Tap **Learn More About Us**.
+1. Select **Learn More About Us**.
 
 The website opens the **About Us** page.
 
----
+## Viewing Upcoming Events
 
-## Viewing upcoming events
+Scroll to the **Events** section to browse upcoming activities and programmes relevant to children, parents, guardians, and caregivers.
 
-### Events section
+## Using Quick Links
 
-The website displays upcoming events that may be relevant to children, parents, guardians, and caregivers.
-
-Browse this section to learn about future activities and programs.
-
----
-
-## Using quick links
-
-### Quick Links section
-
-The **Quick Links** section provides shortcuts to frequently accessed topics.
-
-Available links include:
+The **Quick Links** section provides shortcuts to commonly accessed resources, including:
 
 * What Is Child Abuse?
 * Reporting Child Abuse
@@ -106,15 +86,11 @@ Available links include:
 * Downloads
 * Find Upcoming Events
 
-Tap a link to open the related article or information page.
+Select a link to open the corresponding page.
 
----
+## Learning About Types of Abuse
 
-## Learning about types of abuse
-
-### Types of Abuse section
-
-The website provides information about different forms of abuse.
+Scroll to the **Types of Abuse** section and select a topic to learn more.
 
 Available topics include:
 
@@ -124,70 +100,28 @@ Available topics include:
 * Psychological Abuse
 * Neglect
 
-Tap a topic to read the corresponding article.
+## Reading Articles
 
----
+Scroll to the **Latest Articles** section to browse recent content.
 
-## Reading articles
+Each article preview displays information such as the title, publication date, and author or speaker.
 
-### Latest Articles section
+To read the full article:
 
-The **Latest Articles** section displays recent articles and resources.
+1. Swipe left or right to browse available articles.
+2. Select **More** on the article you want to view.
 
-Each article preview includes:
+The website opens the complete article or related content.
 
-* Title
-* Date
-* Speaker or author
+## Viewing Footer Information
 
-Swipe left or right to browse available articles.
-
-To read the complete article or view available videos:
-
-1. Tap **More**.
-
-The website opens the full article page.
-
----
-
-## Child safety reminder
-
-Below the Latest Articles section, the website displays a reminder encouraging users to seek help if they notice a child acting differently.
-
-This section promotes child safety and awareness.
-
----
-
-## Footer information
-
-### About Us section
-
-At the bottom of the website, you can find additional information, including:
+At the bottom of the website, you can find additional links and resources, including:
 
 * About Us
 * Recent News
 * Upcoming Events
 * Social Media Links
 
-Use the available links to learn more about the organization and stay updated on current activities.
+## Navigation Tip
 
----
-
-## Navigation tips
-
-### Returning to previous sections
-
-The Government Services website does not provide a back button within its pages.
-
-To navigate to another section:
-
-1. Tap the **Menu** button at the top-right corner of the screen.
-2. Select the page or topic you want to view.
-
-You can also tap **Home** from the menu to return to the website's main page.
-
----
-
-## Summary
-
-Government Services provides information about adoption, foster care, child protection, parenting resources, events, and support services. Users can browse articles, explore educational resources, and access important child welfare information through the website's menu and navigation tools.
+The **Government Services** website does not include a built-in back button. To navigate to another section, open the **Menu** and select the page you want to visit, or choose **Home** to return to the main page.
