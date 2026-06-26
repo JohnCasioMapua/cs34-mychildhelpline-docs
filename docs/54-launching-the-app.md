@@ -15,4 +15,4 @@ The home screen appears after you successfully register or sign in, allowing you
 
 Watch the GIF below to see how it looks step by step.
 
-![Launching the App](../assets/launchingtheapp-ezgif.com-optimize.gif)
+![Launching the app](../assets/launchingtheapp-ezgif.com-optimize.gif)
