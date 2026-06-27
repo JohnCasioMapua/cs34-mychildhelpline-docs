@@ -6,6 +6,8 @@ The **Call Us** feature shows the national toll-free helpline number for your co
 
 ## Making a Call
 
+![Call Us](../assets/call-us.gif)
+
 1. Open the **MyChild Helpline** app.
 2. Select **Call Us** on the home screen.
 
