@@ -16,7 +16,7 @@ The app icon appears on your home screen when the installation is complete.
 
 Watch the GIF below to see how the installation looks step by step.
 
-<img src="../assets/installingtheapp-ezgif.com-video-to-gif-converter.gif" alt="Installing the app" width="500">
+<img src="../assets/installingtheapp-ezgif.com-video-to-gif-converter.gif" alt="Installing the app" width="200">
 
 ## Installing on Android
 
