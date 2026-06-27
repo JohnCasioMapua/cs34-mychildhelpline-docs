@@ -31,14 +31,10 @@ You play against the app. The app takes its turn after yours.
 
 You and a friend can take turns on the same device. The screen tells you whose turn it is.
 
-## Restarting or Exiting a Game
+![Arcade](../assets/arcade-full.gif)
 
-To restart your current game without leaving the Arcade:
-
-1. Select the **menu icon** at the top right of the game screen.
-2. Select **Restart**.
+## Exiting a Game
 
 To exit your current game and return to the Arcade:
 
-1. Select the **menu icon** at the top right of the game screen.
-2. Select **Exit to Arcade**.
+1. Select the **arrow** at the top left of the game screen.
