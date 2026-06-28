@@ -18,6 +18,8 @@ The app saves your profile and takes you to the home screen.
 
 ## Choosing an Avatar
 
+![Avatar](../assets/avatar-profile.gif)
+
 After saving your profile, the app prompts you to choose an avatar. Avatars appear on your profile and throughout the app.
 
 1. Scroll through the available avatars on the **Choose Your Avatar** screen.
