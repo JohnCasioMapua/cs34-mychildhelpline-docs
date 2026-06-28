@@ -23,6 +23,7 @@ The app saves your profile and takes you to the home screen.
 Avatars appear on your profile and throughout the app.
 
 1. Select the pencil icon on the bottom right of the child avatar on the main screen.
+2. Select Avatar to create your avatar. You can also select Camera to choose a photo from your device.
 3. Create your digital avatar by choosing its features. You can preview them by clicking on them.
 4. Select **Done** to save your choice.
 
